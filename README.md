@@ -5,12 +5,7 @@
 ![Appletea404's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Appletea404&theme=radical)
 
 
-<div align="center">
-
-### 📊 Language Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Appletea404&theme=radical)
-
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Appletea404&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Appletea404's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Appletea404&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
