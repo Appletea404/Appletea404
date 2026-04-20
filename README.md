@@ -27,20 +27,11 @@
 
 
 ### 🛠 Language Stack
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Verilog-FAD000?style=for-the-badge&logo=microchip&logoColor=black">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Verilog-FAD000?style=for-the-badge&logo=microchip&logoColor=black">
 
 ### :star: Tools
 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
-<img src="https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
-<img src="https://img.shields.io/badge/Vivado-007ACC?style=for-the-badge&logo=xilinx&logoColor=white">
-<img src="https://img.shields.io/badge/Vitis-007ACC?style=for-the-badge&logo=xilinx&logoColor=white">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"><img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"><img src="https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"><img src="https://img.shields.io/badge/Vivado-007ACC?style=for-the-badge&logo=xilinx&logoColor=white"><img src="https://img.shields.io/badge/Vitis-007ACC?style=for-the-badge&logo=xilinx&logoColor=white"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
 ### 🔌 Hardware
-<img src="https://img.shields.io/badge/Basys_3-Artix--7_FPGA-007ACC?style=for-the-badge&logo=xilinx&logoColor=white">
-<img src="https://img.shields.io/badge/STM32-ARM_Cortex--M4-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
-<img src="https://img.shields.io/badge/ATmega128-8--bit_MCU-0081C9?style=for-the-badge&logo=microchip&logoColor=white">
+<img src="https://img.shields.io/badge/Basys_3-Artix--7_FPGA-007ACC?style=for-the-badge&logo=xilinx&logoColor=white"><img src="https://img.shields.io/badge/STM32-ARM_Cortex--M4-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"><img src="https://img.shields.io/badge/ATmega128-8--bit_MCU-0081C9?style=for-the-badge&logo=microchip&logoColor=white">
