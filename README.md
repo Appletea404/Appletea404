@@ -7,7 +7,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Appletea404&theme=tokyonight" />
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Appletea404&show_icons=true&theme=tokyonight" height="165" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Appletea404&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-murex-gamma-80.vercel.app/api?username=Appletea404&show_icons=true&theme=tokyonight" height="165" />
+<img src="https://github-readme-stats-murex-gamma-80.vercel.app/api/top-langs/?username=Appletea404&layout=compact&theme=tokyonight" height="165" />
+
+
 </div>
 
 
