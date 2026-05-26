@@ -14,8 +14,10 @@
 
 
 
+### 📊 GitHub Stats
+
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>Click to expand</summary>
 <br>
 
 
