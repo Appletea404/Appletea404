@@ -5,7 +5,7 @@
 ## Hi there! 👋
 
 I'm an embedded systems developer with hands-on experience in firmware and hardware design.
-Interested in FPGA development, and low-level C programming.
+Skilled in low-level C programming, FPGA design, and STM32 development.
 
 ---
 
